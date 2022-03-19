@@ -1,0 +1,25 @@
+body {
+    font-family: "Open Sans";
+}
+
+li{
+    list-style: none; /* Quitar viñeta */
+}
+
+a{
+    text-decoration: none; /* Quitar subrrayado */
+    color: black;
+}
+
+h1,h2{
+    text-transform: uppercase; /* Pasar h1 a MAYUSCULA */
+    font-family: "Raleway";
+}
+
+header nav ul li{
+    text-transform: uppercase;
+}
+
+header nav ul{
+    padding: 0;
+}

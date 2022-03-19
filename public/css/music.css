@@ -1,0 +1,4 @@
+body.music{
+    background-image: url("/images/emilia-music-top.jpg"); /* Una imagen de fondo muy chiquita se retite tantas veces sean necesarias para completar el fondo. */
+    background-repeat: no-repeat; /* No se repite la imagen */
+}
