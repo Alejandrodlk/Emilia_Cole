@@ -1,3 +1,19 @@
-.about h1{
-    line-height: 30px; /* Para achicar o agrandar el espacio que deja el <br> */
+body.about{
+    background-image: url("/images/emilia-about.jpg"); /* Imagen de fondo */
+    background-size: 75% 125% ; /* Achico la imagen, por defecto se repite para completar el 100% de la patalla */
+    background-repeat: no-repeat; /* Hago que no se repita */
+    background-position: right top ; /* Para ajustar para arriba */
 }
+
+.about section{
+    margin-left: 30px;
+    color: darkcyan;
+}
+.about h4{
+    font-size: 24px; /* tamaño fuente */
+}
+
+.about ul{
+    padding: 000;
+}
+
