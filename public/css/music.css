@@ -1,4 +1,22 @@
-body.music{
+.music header{
     background-image: url("/images/emilia-music-top.jpg"); /* Una imagen de fondo muy chiquita se retite tantas veces sean necesarias para completar el fondo. */
     background-repeat: no-repeat; /* No se repite la imagen */
+    background-size: cover;
+    padding-top: 30px; /* espaciado interno superior */
+    padding-bottom: 30px; /* espaciado interno inferior */
+}
+
+.music a.goTop{
+    color: gray;
+}
+
+.music main section ol li {
+    list-style-type: decimal-leading-zero; /* Para pnumerar la lista */
+}
+
+.music main section ol li a{
+    font-weight: 100;
+}
+.music main section p{
+    line-height: 10px; /* Separacion , Interlineado */
 }
