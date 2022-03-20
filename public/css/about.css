@@ -7,7 +7,7 @@ body.about{
 
 .about section{
     margin-left: 30px;
-    color: darkcyan;
+    color: var(--colorEsmeralda); /* variable guardada en variables.css */
 }
 .about h4{
     font-size: 24px; /* tamaño fuente */

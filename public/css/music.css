@@ -2,8 +2,7 @@
     background-image: url("/images/emilia-music-top.jpg"); /* Una imagen de fondo muy chiquita se retite tantas veces sean necesarias para completar el fondo. */
     background-repeat: no-repeat; /* No se repite la imagen */
     background-size: cover;
-    padding-top: 30px; /* espaciado interno superior */
-    padding-bottom: 30px; /* espaciado interno inferior */
+   
 }
 
 .music a.goTop{

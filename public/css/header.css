@@ -1,3 +1,8 @@
+header.horizontal{
+    padding-top: 30px; /* espaciado interno superior */
+padding-bottom: 30px; /* espaciado interno inferior */
+}
+
 header.horizontal nav ul li{ /* Selector de clase en html <header (about) class="horizontal"> */
     display: inline; /* Cambia el elemento li que es en "bloque" a "en linea" */
 
